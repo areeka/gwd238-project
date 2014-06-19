@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {font:100% Helvetica, sans-serif;
+      color:#2A5F00;
+	  }
+	  
+#wrapper {margin:auto;
+          width:960px;
+		  border:2px solid #600;
+		  height:1585px;
+		  background-color:#7FFFAA;
+		  }
+		  
+/* h1 course jump page */
+#main {padding-left:285px;
+       background-color:#559F00;
+	   padding-top:9px;
+	   padding-bottom:9px;
+	   color:#D4FFAA;
+	   }	
+	   
+	   	  
+/* h2 course information */		  
+#sub {padding-left:25px;
+      margin-top:4px;
+	  background-color:#A6CAF0;
+	  padding-top:5px;
+	  padding-bottom:5px;
+	  }
+	  
+	  
+	  
+#text {margin-left:25px;
+       float:left;
+	   margin-right:65px;
+	   }	  
+	
+#materi {float:left;
+         margin-right:65px;
+		  }
+		  
+		 
+#tech   {float:left;
+         margin-top:-42px;
+		 }
+				 
+.lab {float:left;
+      margin-left:25px;
+      margin-top:25px;
+	  list-style:none;
+	  display:inline-block;
+	  } 
+	  
+#lab-ex {margin:left:25px;
+         }	  
+	  
+ul li {float:left;
+       list-style:none;
+	   display:inline-block;
+	   margin-right:65px;
+	   margin-left:-29px;
+	   background-color:#CFF;
+	   border:1px solid #2A5F00;
+	   width:195px;
+	   height:85px;
+	   padding:25px;
+	   margin-bottom:15px;
+	   }
+	   
+a {color:#D47F00;
+   color:#2A5F00;
+   }	   	  
+	   
+#link {float:left;
+      } 
+   
+p {
+   width:225px;
+   }
